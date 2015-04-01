@@ -62,8 +62,8 @@ function sbSetup () {
 $wgResourceModules['ext.scratchBlocks'] = array(
     'scripts' => array(
         'scratchblocks2/build/scratchblocks2.js',
-        'run_scratchblocks2.js',
         'translations.js',
+        'run_scratchblocks2.js',
     ),
 
     'styles' => 'scratchblocks2/build/scratchblocks2.css',
