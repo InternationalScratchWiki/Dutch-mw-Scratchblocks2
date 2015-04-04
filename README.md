@@ -19,3 +19,8 @@ Warning
 -------
 
 This repository uses Git submodules. If you `git clone`, make sure to include the `--recursive` option.
+
+Changes
+=======
+
+Edited for the Indonesian Scratch Wiki so that it supports Indonesian.
