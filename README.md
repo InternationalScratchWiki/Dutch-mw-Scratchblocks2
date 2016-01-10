@@ -23,4 +23,4 @@ This repository uses Git submodules. If you `git clone`, make sure to include th
 Changes
 =======
 
-Edited for the Indonesian Scratch Wiki so that it supports Indonesian.
+Edited for the Dutch Scratch Wiki so that it supports Dutch.
